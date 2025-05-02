@@ -1,9 +1,14 @@
-# Exercise-06C-Dialog
+# Project-06
 
-# References
+# Features added
+Added animation and model to the enemies (walking and idle)
+Added animation and model to the npc/quest giver (idle and talking)
+Added animation and model for the torches (small particles that float around them)
+Added more dialog for when you go back and finish the quest
 
-Textures from: https://freepbr.com/
+# References to resources used in the project
+Textures from: https://freepbr.com/ 
 Models and animations from: Mixamo.com
-
-# Created by 
+Torch (and animations) and Runic Sword from: turbosquid.com
+# Created by
 Isaac Pittman (eSobriquet)
